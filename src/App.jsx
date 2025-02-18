@@ -68,7 +68,7 @@ function App() {
     <div className="container">
       {/* Counter Card */}
       <div className="card counter">
-        <h2>Gwapo ako uyab</h2>
+        <h2>Counter</h2>
         <p className="counter-value">{count}</p>
         <div className="btn-group">
           <button className="btn" onClick={handleIncrement}>Increment</button>
